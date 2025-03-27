@@ -1,0 +1,15 @@
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\bin\Debug\net9.0\CargoShip.exe
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\bin\Debug\net9.0\CargoShip.deps.json
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\bin\Debug\net9.0\CargoShip.runtimeconfig.json
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\bin\Debug\net9.0\CargoShip.dll
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\bin\Debug\net9.0\CargoShip.pdb
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.sourcelink.json
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.dll
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\refint\CargoShip.dll
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.pdb
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\CargoShip.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Desktop\git-pjatk\apbd\CargoShip\obj\Debug\net9.0\ref\CargoShip.dll
