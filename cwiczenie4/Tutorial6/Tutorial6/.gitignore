@@ -1,4 +1,10 @@
+# Build folders
 **/bin/
 **/obj/
+
+# IDE-specific
+.vscode/
 .idea/
+
+# OS-specific
 .DS_Store
